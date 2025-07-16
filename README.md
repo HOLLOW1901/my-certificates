@@ -12,7 +12,5 @@ this is my list of my certificates
 ![CSS Certificate](css-course-certificate.jpg)
 
 ## Python Course Certificate
-![Python Certificate](certificates/python-course-certificate.jpg)
 
-## SQL Course Certificate
-![SQL Certificate](certificates/sql-course-certificate.jpg)
+![sololearn-python](https://github.com/user-attachments/assets/7cf61a98-bb3e-49ce-818b-340021e22e4d)
